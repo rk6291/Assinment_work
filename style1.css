@@ -1,0 +1,166 @@
+.div1{
+    text-align:center;
+    background-color: sandybrown;
+    border-style: solid; height: 30px;
+    font-size: 30px;
+    padding-top: 2px;
+    padding-bottom: 14px;
+    font-family:cursive;
+}
+.flex-container{
+    display: flex;
+    flex-wrap: nowrap;
+    background-image: linear-gradient(to right,rgb(179, 75, 92),rgb(199, 138, 138));
+    margin-top: 12px;
+}
+.flex-container > div{
+    margin: 12px;   
+}
+.flex-container3{
+    display: flex;
+    flex-wrap: nowrap;
+    margin-top:4px;
+    
+}
+.button1{
+    width: 250px;
+    height: 30px;
+    margin-top: 12px;
+    margin-left: 5px;
+    border: solid;
+    font-size: 22px;
+    transition-duration: 0.4s;
+}
+.button1:hover{
+    background-color:peru;
+}
+.button2{
+    width: 235px;
+    height: 30px;
+    margin-top: 12px;
+    margin-left:50px;
+    font-size: 20px;
+    border:solid;
+    transition-duration: 0.4s;
+}
+.button2:hover{
+    background-color:peru;
+}
+.button3{
+    width: 239px;
+    height: 30px;
+    margin-top: 12px;
+    margin-left:50px;
+    border: solid;
+    font-size: 20px;
+    transition-duration: 0.4s;
+}
+.button3:hover{
+    background-color:peru;
+}
+.button4{
+    width: 235px;
+    height: 30px;
+    margin-top: 12px;
+    margin-left:50px;
+    border: solid;
+    font-size: 20px;
+    transition-duration: 0.4s;
+}
+.button4:hover{
+    background-color:peru;
+}
+.button5{
+    width: 240px;
+    height: 30px;
+    margin-top: 12px;
+    margin-left: 50px;
+    border: solid;
+    font-size: 20px;
+    transition-duration: 0.4s;
+    
+}
+.button5:hover{
+    background-color:peru;
+}
+.div2{
+    text-align:center;
+    background-color: sandybrown;
+    border-style: solid; height: 30px;
+    font-size: 30px;
+    padding-top:1px;
+    padding-bottom:14px;
+    font-family:cursive;
+    margin-top: 10px;
+}
+.flex-container4{
+    display: flex;
+    flex-direction: row;
+    /* margin-top:4px;
+    margin-left: 47px; */
+    position:absolute;
+    top: 115%;
+    left: 15px;
+ } 
+
+
+.button01{
+    width: 200px;
+    height: 30px;
+    margin-top: 12px;
+    margin-left: 50px;
+    border: solid;
+    font-size: 20px;
+    transition-duration: 0.4s;
+}
+.button01:hover{
+    background-color:peru;
+}
+.button02{
+    width: 200px;
+    height: 30px;
+    margin-top: 12px;
+    margin-left: 50px;
+    border: solid;
+    font-size: 20px;
+    transition-duration: 0.4s;
+}
+.button02:hover{
+    background-color:peru;
+}
+.button03{
+    width: 200px;
+    height: 30px;
+    margin-top: 12px;
+    margin-left: 50px;
+    border: solid;
+    font-size: 20px;
+    transition-duration: 0.4s;
+}
+.button03:hover{
+    background-color:peru;
+}
+.button04{
+    width: 190px;
+    height: 30px;
+    margin-top: 12px;
+    margin-left: 50px;
+    border: solid;
+    font-size: 20px;
+    transition-duration: 0.4s;
+}
+.button04:hover{
+    background-color:peru;
+}
+.button05{
+    width: 182px;
+    height: 30px;
+    margin-top: 12px;
+    margin-left: 50px;
+    border: solid;
+    font-size: 20px;
+    transition-duration: 0.4s;
+}
+.button05:hover{
+    background-color:peru;
+}

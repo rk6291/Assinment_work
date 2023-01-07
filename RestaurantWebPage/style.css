@@ -1,0 +1,52 @@
+body{
+    background-image:url(Restaurantbg.jpg);
+    background-size: 100%;
+}   
+.container{
+    position: relative;
+    left: 25%;
+}
+.button1{
+    
+    font-family:fantasy;
+    font-size: 15px;
+    
+    border-color: blue;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    width: 15%;
+    height: 30px;
+    margin-left: 25%;   
+}
+:hover.button1{
+    background-color:peru;
+}
+
+.button2{
+    font-family: fantasy;
+    font-size: 15px;
+    border-color: blue;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    height: 30px;
+    width: 15%;
+    
+    
+}
+:hover.button2{
+    background-color: peru;
+}
+
+.button3{
+    font-family: fantasy;
+    font-size: 15px;
+    border-color: blue;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    height: 30px;
+    width: 15%;
+    
+}
+:hover.button3{
+    background-color: peru;
+}
